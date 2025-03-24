@@ -36,6 +36,6 @@ The game logic is powered by Sui Move contracts. Check out the contracts folder 
 Interested in contributing? Open an issue or submit a pull request!
 
 📬 Contact
-Discord: web3-shooter-founders
+Discord: web3shooter-community
 
 Email: obefortune2@gmail.com
